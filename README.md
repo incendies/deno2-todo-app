@@ -1,4 +1,4 @@
-# deno2-todo-app
+# DENO 2 TODO APP
 
 A simple Todo application built with Deno. This app allows users to create, read, update, and delete todos.
 
